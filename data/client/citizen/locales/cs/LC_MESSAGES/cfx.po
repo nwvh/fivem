@@ -8,7 +8,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-12-30 22:37+0100\n"
 "PO-Revision-Date: 2020-11-17 09:44+0000\n"
-"Last-Translator: Petr Šopf <trsak1@seznam.cz>\n"
+"Last-Translator: WX <woox@duck.com>\n"
 "Language-Team: Czech <http://translations.cfx.re/projects/citizenfx/client/"
 "cs/>\n"
 "Language: cs\n"
@@ -164,7 +164,7 @@ msgstr "Jsi si jistý, že chceš odstranit %s z kořenu instalace v %s?"
 #: client/launcher/Bootstrap.cpp:34
 #, c-format
 msgid "Bootstrapping %s..."
-msgstr "Bootstrapping %s..."
+msgstr "Zavádění %s..."
 
 #: client/launcher/Updater.cpp:624
 #, c-format
@@ -174,7 +174,7 @@ msgstr "Kontroluji %s"
 #: client/launcher/MiniDump.cpp:1349
 #, c-format
 msgid "Crash signature: %s\n"
-msgstr ""
+msgstr "Podpis pádu: %s\n"
 
 #: client/launcher/GameCache.cpp:794
 #, fuzzy, c-format
@@ -229,19 +229,21 @@ msgid ""
 "Windows settings to not run FiveM as administrator.\n"
 "The game will exit now."
 msgstr ""
-"FiveM nepodporuje běh se zvýšenými oprávněními. Změňte nastavení systému "
+"FiveM nepodporuje spuštění se zvýšenými oprávněními. Změňte nastavení systému "
 "Windows tak, aby nespouštěl FiveM jako správce.\n"
 "Hra se nyní ukončí."
 
 #: client/launcher/MiniDump.cpp:1308
 msgid "Game crashed: "
-msgstr "Pád hry: "
+msgstr "Hra spadla: "
 
 #: components/citizen-devtools/src/ResourceTimeWarnings.cpp:428
 msgid ""
 "Please close any software you have running in the background (including "
 "Windows apps such as File Explorer or Task Manager)."
 msgstr ""
+"Prosím, zavři jakýkoliv software který máš spuštěný na pozadí (to zahrnuje "
+"Windows aplikace jako Průzkumník Souborů nebo Správce Úloh)."
 
 #: client/launcher/ViabilityChecks.cpp:50
 msgid "Please install Windows 7 SP1 or greater, and try again."
@@ -253,7 +255,7 @@ msgstr "Prosím nainstaluje Platforum Update pro Windows 7 a zkuste to znovu."
 
 #: client/launcher/MiniDump.cpp:328 client/launcher/MiniDump.cpp:1447
 msgid "Save information"
-msgstr ""
+msgstr "Uložit informace"
 
 #: client/launcher/MiniDump.cpp:1343
 msgid ""
@@ -271,15 +273,15 @@ msgstr "Zvolte adresář obsahující instalaci Grand Theft Auto V"
 
 #: components/ros-patches-five/src/AccountID.cpp:265
 msgid "Signing in with Epic"
-msgstr ""
+msgstr "Přihlašování přes Epic"
 
 #: components/ros-patches-five/src/AccountID.cpp:229
 msgid "Signing in with Steam"
-msgstr ""
+msgstr "Přihlašování přes Steam"
 
 #: components/citizen-devtools/src/ResourceTimeWarnings.cpp:424
 msgid "Slow system performance detected"
-msgstr ""
+msgstr "Byl zjištěn pomalý chod systému"
 
 #: client/launcher/Download.cpp:511
 msgid "Starting IPFS discovery..."
@@ -326,7 +328,7 @@ msgstr "Probíhá přechod na jinou verzi..."
 
 #: client/launcher/MiniDump.cpp:1300
 msgid "Unhandled exception: "
-msgstr "Neošetřená výjimka: "
+msgstr "Nevyřízená výjimka: "
 
 #: client/launcher/Installer.cpp:125
 #, c-format
