@@ -1,5 +1,5 @@
 {
-    "#ExitToDesktop": "Odejít na plochu",
+    "#ExitToDesk": "Odejít na plochu",
     "#ServerList_Name": "Název",
     "#ServerList_Players": "Hráči",
     "#ServerList_Ping": "Odezva",
@@ -71,7 +71,7 @@
     "#ServerDetail_Refresh": "Obnovit",
     "#ServerDetail_ScriptHook": "Klientské skripty jsou povoleny",
     "#ServerDetail_OneSync": "OneSync",
-    "#ServerDetail_Updates": "Zeď",
+    "#ServerDetail_Updates": "Novinky",
     "#ServerDetail_Premium": "FiveM úroveň podporovatele",
     "#Changelogs": "Seznam změn",
     "#Yes": "Ano",
